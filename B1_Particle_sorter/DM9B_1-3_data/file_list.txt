@@ -1,0 +1,4 @@
+Filename	Image size	Scale
+DM9B_1-3_50um.csv	11191.46	11.88
+DM9B_1-3_100um.csv	55862.74	5.33
+DM9B_1-3_300um.csv	291516.716	1.7767
