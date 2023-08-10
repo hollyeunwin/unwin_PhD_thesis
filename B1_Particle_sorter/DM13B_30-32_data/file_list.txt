@@ -1,0 +1,4 @@
+Filename	Image size	Scale
+DM13B_30-32_20um_data.csv	1802.052	26.15
+DM13B_30-32_100um_data.csv	29799.723	5.93
+DM13B_30-32_400um_data.csv	529919.605	1.5325
